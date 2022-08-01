@@ -294,7 +294,7 @@ p {
   }
 
   .header {
-    padding-top: 0;
+    padding-top: 20px;
   }
 
   .container-form,
@@ -303,6 +303,6 @@ p {
   }
 
   .footer {
-    padding: 0;
+    padding: 10px;
   }
 }
