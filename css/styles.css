@@ -289,11 +289,20 @@ p {
 /* 320 - 576px */
 @media screen and (max-width: 576px) {
   .container {
+    min-width: 270px;
     width: 90%;
+  }
+
+  .header {
+    padding-top: 0;
   }
 
   .container-form,
   .input {
     width: auto;
+  }
+
+  .footer {
+    padding: 0;
   }
 }
